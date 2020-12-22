@@ -12,13 +12,20 @@ Ademais, o programa foi programado em python e baseado nas funções presentes n
 
 #### **Escolha das palavras-chave de busca**
 	
-As palavras e termos chave presentes em frases.txt foram escolhidas através da análise de artigos e textos com análises discursivas de textos suicidas ou de pessoas em situações complicadas da vida ou em estágios avançados das respectivas doenças (presentes nas referências)
+As palavras e termos chave presentes em frases.txt foram escolhidas através da análise de artigos e textos com análises discursivas de textos suicida ou em estágios avançados das respectivas doenças supracitadas (presentes nas referências).
+
+Caso você tenha sugestões ou críticas da escolha de frases-chave de pesquisa, por favor entre em contato urgentemente com o email linkado em contatos ou pelas mensagens diretas do twitter.
 
 ## **Referências**
 	
 As referências foram dividas em três categorias, as de contextualização, computação e análise de discurso
 
 #### **Contextualização:**
+
+Os textos e mídias abaixo dizem respeito ao contexto atual de tendências suicidas, mais especificamente em adolescentes e jovens, diz também respeito a relação íntima que saúde mental e redes socias tem e como a maioria delas está afetando negativamente o quadro psicológico da população.
+
+- ANDRADE ,ICS de;GOMES ,NP; CORREIA ,CM; LÍRIO ,JG; VIRGENS ,IR das; GOMES, NP; et al. Suporte social de familiares e amigos: discurso de pessoas com comportamento suicida. Cogitare enferm. [Internet]. 2019 acesso em 22 dez. 2020. Disponível em: [Link para artigo 1](http://dx.doi.org/10.5380/ce.v24i0.64230)
+-  BOTTI, Nadja Cristianne Lappann; PEREIRA, Camilia Corrêa Matias. O suicídio na comunicação das redes sociais virtuais: Revisão integrativa da literatura. Revista Portuguesa de Enfermagem de Saúde Mental. [Internet]. 2017. acesso em 22 dez. 2020. Disponível em :[Link para artigo 2](http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S1647-21602017000100003)
 
 #### **Computação:**
 
