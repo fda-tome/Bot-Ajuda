@@ -18,9 +18,9 @@ As palavras e termos chave presentes em frases.txt foram escolhidas através da 
 	
 As referências foram dividas em três categorias, as de contextualização, computação e análise de discurso
 
-## **Contextualização:**
+#### **Contextualização:**
 
-## **Computação:**
+#### **Computação:**
 
-## **Análise de discurso:**
+#### **Análise de discurso:**
 
