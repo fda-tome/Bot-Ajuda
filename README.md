@@ -29,4 +29,4 @@ As referências foram dividas em três categorias, as de contextualização, com
 
 ## Muito obrigado por ler e espero que tenha gostado da proposta :)
 Ass:
-![](/home/nosf/desktop/Bot-Ajuda/Assinatura.gif)
+![/home/nosf/desktop/Bot-Ajuda/Assinatura.gif]
