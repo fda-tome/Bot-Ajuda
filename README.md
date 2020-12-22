@@ -27,7 +27,6 @@ As referências foram dividas em três categorias, as de contextualização, com
 ## **Contatos**
 
 
-## Muito obrigado por ler e espero que tenha gostado da proposta :)
 Ass:
 ![Assinatura](https://user-images.githubusercontent.com/62853093/102901319-3a39c580-444c-11eb-8327-ba17851d964f.gif)
 
