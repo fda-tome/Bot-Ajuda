@@ -6,9 +6,9 @@ Esse bot foi criado com o intuito de auxiliar e combater um pouco a epidemia de 
 
 ## **Desenvolvimento**
 	
-O bot surgiu a partir do momento de estudo do desenvolvedor que ,após ler alguns artigos, notícias e podcasts(presentes nas referências) decidiu agir de alguma forma. Como esse bot **_NÃO É FEITO POR UM PROFISSIONAL DA SAÚDE_** ele indica os caminhos e cria pontes para serviços fantásticos e gratuitos que oferecem contatocom **_PROFISSIONAIS QUALIFICADOS_** para tratar de **_DOENÇAS_**, o algoritmo só indica esses maravilhosos profissionais.
+O bot surgiu a partir do momento de estudo do desenvolvedor que ,após ler alguns artigos, notícias e podcasts(presentes nas referências) decidiu agir de alguma forma. Como esse bot **_NÃO É FEITO POR UM PROFISSIONAL DA SAÚDE_** ele indica os caminhos e cria pontes para serviços fantásticos e gratuitos que oferecem contato com **_PROFISSIONAIS QUALIFICADOS_** para tratar de **_DOENÇAS_**, o algoritmo só indica esses maravilhosos profissionais.
 	
-Ademais, o programa foi programado em python e baseado nas funções presentes na biblioteca tweepy (presente nas referências), o código é rudimentar mas funcional, portanto se houverem sugestões entre em contato pelo e-mail presente na seção contatos.
+Ademais, o programa foi feito em python e baseado nas funções presentes na biblioteca tweepy (presente nas referências), o código é rudimentar mas funcional, portanto se houverem sugestões entre em contato pelo e-mail presente na seção contatos.
 
 #### **Escolha das palavras-chave de busca**
 	
