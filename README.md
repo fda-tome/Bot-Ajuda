@@ -24,15 +24,21 @@ As referências foram dividas em três categorias, as de contextualização, com
 
 Os textos e mídias abaixo dizem respeito ao contexto atual de tendências suicidas, mais especificamente em adolescentes e jovens, diz também respeito a relação íntima que saúde mental e redes socias tem e como a maioria delas está afetando negativamente o quadro psicológico da população.
 
-- ANDRADE ,ICS de;GOMES ,NP; CORREIA ,CM; LÍRIO ,JG; VIRGENS ,IR das; GOMES, NP; et al. Suporte social de familiares e amigos: discurso de pessoas com comportamento suicida. Cogitare enferm. [Internet]. 2019 acesso em 22 dez. 2020. Disponível em: [Link para artigo 1](http://dx.doi.org/10.5380/ce.v24i0.64230)
 -  BOTTI, Nadja Cristianne Lappann; PEREIRA, Camilia Corrêa Matias. O suicídio na comunicação das redes sociais virtuais: Revisão integrativa da literatura. Revista Portuguesa de Enfermagem de Saúde Mental. [Internet]. 2017. acesso em 22 dez. 2020. Disponível em :[Link para artigo 2](http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S1647-21602017000100003)
 
 #### **Computação:**
 
 #### **Análise de discurso:**
 
+- ANDRADE ,ICS de;GOMES ,NP; CORREIA ,CM; LÍRIO ,JG; VIRGENS ,IR das; GOMES, NP; et al. Suporte social de familiares e amigos: discurso de pessoas com comportamento suicida. Cogitare enferm. [Internet]. 2019 acesso em 22 dez. 2020. Disponível em: [Link para artigo 1](http://dx.doi.org/10.5380/ce.v24i0.64230)
+
+- Ceballos-Espinoza, F. (2014). El discurso suicida: Una aproximación alsentido y significado del suicidio basado en el análisis de notas suicidas.Sciences PI Journal, 1 (1) 53-66.
+
 ## **Contatos**
 
+1. E-mail para contato : botajuda1@gmail.com
+2. E-mail do criador : tomefelipe0@gmail.com
+3. Twitter do bot : [@BotValorização](https://twitter.com/BotValorizacao)
 
 Ass:
 ![Assinatura](https://user-images.githubusercontent.com/62853093/102901319-3a39c580-444c-11eb-8327-ba17851d964f.gif)
