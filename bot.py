@@ -23,8 +23,8 @@ def retorna_id(banco,controle):
     print(int(controle))
     return int(intermed[int(controle)].strip())
 
-auth=tweepy.OAuthHandler('xpDreY4GClKh8YU9hmXy0syj4','WgBGz9vBKRhOzuDYQvK734RNn1XGX6wD6PQNIk1cKepreSqecc')
-auth.set_access_token('1287810577914646530-CCiiQqzCsAS968mL84SYIwq10BGA9Y','A0ljEvdrJ8X1U44Fl3V6hNbit8PSjBfoZPPsnlwNQeR04')
+auth=tweepy.OAuthHandler('','')
+auth.set_access_token('','')
 api=tweepy.API(auth)
 frases=open("frases.txt")
 
@@ -37,10 +37,11 @@ while(1):
         busca=api.search(q=query,lang='pt',since_id=milestone)
         for tweet in reversed(busca):
             print(str(tweet.id) + ' -- ' +'@'+tweet.user.screen_name+' : '+str(tweet.text))
-            api.update_status('@'+tweet.user.screen_name +' '+'VO LHE ESBAGAÇA ,TODO DURO', tweet.id);
+            api.update_status('@'+tweet.user.screen_name +' '+'Olá, identifiquei que pode não estar tudo bem com você ou alguém próximo, sabia que existem pessoas dispostas a ajudar e ouvir?\nO contato é através dos canais:\nChat do CVV: https://www.cvv.org.br/chat/ ou\nLigue para o número: 188\nFale com um profissional ♥️', tweet.id);
         if(busca):
             guarda_id("id.txt",tweet.id,controle)
         controle+=1
-    time.sleep(60)
+        time.sleep(15)
+
 
 
