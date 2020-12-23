@@ -6,19 +6,19 @@ Esse bot foi criado com o intuito de auxiliar e combater um pouco a epidemia de 
 
 ## **Desenvolvimento**
 	
-O bot surgiu a partir do momento de estudo do desenvolvedor que ,após ler alguns artigos, notícias e podcasts(presentes nas referências) decidiu agir de alguma forma. Como esse bot **_NÃO É FEITO POR UM PROFISSIONAL DA SAÚDE_** ele indica os caminhos e cria pontes para serviços fantásticos e gratuitos que oferecem contato com **_PROFISSIONAIS QUALIFICADOS_** para tratar de **_DOENÇAS_**, o algoritmo só indica esses maravilhosos profissionais.
+O bot surgiu a partir do momento de estudo do desenvolvedor que, após ler alguns artigos, notícias e podcasts(presentes nas referências) decidiu agir de alguma forma. Como esse bot **_NÃO É FEITO POR UM PROFISSIONAL DA SAÚDE_** ele indica os caminhos e cria pontes para serviços fantásticos e gratuitos que oferecem contato com **_PROFISSIONAIS QUALIFICADOS_** para tratar de **_DOENÇAS_**, o algoritmo só indica esses maravilhosos profissionais.
 	
 Ademais, o programa foi feito em python e baseado nas funções presentes na biblioteca tweepy (presente nas referências), o código é rudimentar mas funcional, portanto se houverem sugestões entre em contato pelo e-mail presente na seção contatos.
 
 #### **Escolha das palavras-chave de busca**
 	
-As palavras e termos chave presentes em frases.txt foram escolhidas através da análise de artigos e textos com análises discursivas de textos que apontam comportamento ou de pessoas em estágios avançados das doenças supracitadas (presentes nas referências).
+As palavras e termos chave presentes em frases.txt foram escolhidas através da análise de artigos e textos com análises discursivas de textos que apontam comportamento comportamento ou de pessoas em estágios avançados das doenças supracitadas (presentes nas referências).
 
 Caso você tenha sugestões ou críticas da escolha de frases-chave de pesquisa, por favor entre em contato urgentemente com o email linkado em contatos ou pelas mensagens diretas do twitter.
 
 #### **Limitações**
 
-O algoritmo é limitado pois o twitter não permite o spam de pesquisas (obviamente), então não existe a possibilidade de um grande número de termos-chave de forma efetiva, outrossim é necessário uma pessoalidade que o bot não permite por ser um meio massivo de comunicação, logo a análise do destinatário como um indivíduo biopsicossocial é dificultada mas ,ainda assim, está presente.
+O algoritmo é limitado pois o twitter não permite o spam de pesquisas, então não existe a possibilidade de um grande número de termos-chave de forma efetiva, outrossim é necessário uma pessoalidade que o bot não permite por ser um meio massivo de comunicação, logo a análise do destinatário como um indivíduo biopsicossocial é dificultada mas, ainda assim, está presente.
 
 ## **Referências**
 	
@@ -34,14 +34,14 @@ Os textos e mídias abaixo dizem respeito ao contexto atual de tendências suici
 
 #### **Computação:**
 
-O bot já foi para felicitar uma amiga do desenvolvedor em seu aniversário, já foi de humor (como pode ser visto nos commits iniciais da plataforma) e agora é um bot sério e social. Ele foi criado através do estudo de um vídeo do youtube e da biblioteca tweepy, elencados abaixo:
+O bot já foi usado para felicitar uma amiga do desenvolvedor em seu aniversário, já foi de humor (como pode ser visto nos commits iniciais da plataforma) e agora é um bot sério e social. Ele foi criado através do estudo de um vídeo do youtube e da biblioteca tweepy, elencados abaixo:
 
 - [Link para o vídeo de produção do bot](https://www.youtube.com/watch?v=W0wWwglE1Vc&t=1313s)
 - [Link para a documentação da biblioteca usada](http://docs.tweepy.org/en/latest/)
  
 #### **Análise de discurso:**
 
-Para entender o discurso de pessoas em situação avançada de doenças psicossomáticas dentro de manifestações escritas ou verbais procurei analisar artigos que falavam sobre angústias atraladas ao comportamento suicida ou de pessoas que chegaram a cometer suicídio.
+Para entender o discurso de pessoas em situação avançada de doenças psicossomáticas dentro de manifestações escritas ou verbais procurei analisar artigos que falavam sobre angústias atreladas ao comportamento suicida ou de pessoas que chegaram a cometer suicídio.
 
 - ANDRADE ,ICS de;GOMES ,NP; CORREIA ,CM; LÍRIO ,JG; VIRGENS ,IR das; GOMES, NP; et al. Suporte social de familiares e amigos: discurso de pessoas com comportamento suicida. Cogitare enferm. [Internet]. 2019 acesso em 22 dez. 2020. Disponível em: [Link para artigo 3](http://dx.doi.org/10.5380/ce.v24i0.64230)
 - Ceballos-Espinoza, F. (2014). El discurso suicida: Una aproximación alsentido y significado del suicidio basado en el análisis de notas suicidas.Sciences PI Journal, 1 (1) 53-66.
