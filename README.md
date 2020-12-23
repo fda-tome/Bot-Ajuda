@@ -43,7 +43,7 @@ O bot já foi para felicitar uma amiga do desenvolvedor em seu aniversário, já
 
 Para entender o discurso de pessoas em situação avançada de doenças psicossomáticas dentro de manifestações escritas ou verbais procurei analisar artigos que falavam sobre angústias atraladas ao comportamento suicida ou de pessoas que chegaram a cometer suicídio.
 
-- ANDRADE ,ICS de;GOMES ,NP; CORREIA ,CM; LÍRIO ,JG; VIRGENS ,IR das; GOMES, NP; et al. Suporte social de familiares e amigos: discurso de pessoas com comportamento suicida. Cogitare enferm. [Internet]. 2019 acesso em 22 dez. 2020. Disponível em: [Link para artigo 1](http://dx.doi.org/10.5380/ce.v24i0.64230)
+- ANDRADE ,ICS de;GOMES ,NP; CORREIA ,CM; LÍRIO ,JG; VIRGENS ,IR das; GOMES, NP; et al. Suporte social de familiares e amigos: discurso de pessoas com comportamento suicida. Cogitare enferm. [Internet]. 2019 acesso em 22 dez. 2020. Disponível em: [Link para artigo 3](http://dx.doi.org/10.5380/ce.v24i0.64230)
 - Ceballos-Espinoza, F. (2014). El discurso suicida: Una aproximación alsentido y significado del suicidio basado en el análisis de notas suicidas.Sciences PI Journal, 1 (1) 53-66.
 -CATELÃO, Evandro de Melo. Motivos e despedidas: o discurso suicida sob a perspectiva textual/discursiva e retórica.
 
