@@ -2,7 +2,7 @@
 
 ## **Introdução**
 	
-Esse bot foi criado com o intuito de auxiliar e combater um pouco a epidemia de suícidios em um contexto global, claro que não é nem o início do que deve ser feito mas foi idealizado para participar de uma mudança ativa dentro de uma perspectivas de bem-estar social. O momento político é preocupante e cercado de intolerância, a pandemia agravou o quadro do avanço das doenças psicossomáticas e as redes sociais aprofundam constantemente esse cenário preocupante.
+Esse bot foi criado com o intuito de auxiliar e combater um pouco a epidemia de suícidios em um contexto global, apesar da necessidade de outras ações no tema em contexto o projeto foi idealizado para participar de uma mudança ativa dentro de uma perspectiva de bem-estar social. O momento político é preocupante e cercado de intolerância, a pandemia agravou o quadro do avanço das doenças psicossomáticas e as redes sociais aprofundam constantemente esse cenário preocupante.
 
 ## **Desenvolvimento**
 	
@@ -12,13 +12,13 @@ Ademais, o programa foi feito em python e baseado nas funções presentes na bib
 
 #### **Escolha das palavras-chave de busca**
 	
-As palavras e termos chave presentes em frases.txt foram escolhidas através da análise de artigos e textos com análises discursivas de textos suicida ou em estágios avançados das respectivas doenças supracitadas (presentes nas referências).
+As palavras e termos chave presentes em frases.txt foram escolhidas através da análise de artigos e textos com análises discursivas de textos que apontam comportamento ou de pessoas em estágios avançados das doenças supracitadas (presentes nas referências).
 
 Caso você tenha sugestões ou críticas da escolha de frases-chave de pesquisa, por favor entre em contato urgentemente com o email linkado em contatos ou pelas mensagens diretas do twitter.
 
 #### **Limitações**
 
-O algoritmo é limitado pois o twitter não permite o spam de pesquisas (obviamente), então não existe a possibilidade de um grande número de termos-chave de forma efetiva, outrossim é necessário uma pessoalidade que o bot não permite por ser um meio massivo de comunicação, logo a análise do destinatário como um indivíduo biopsicossocial é dificultada mas ainda presente.
+O algoritmo é limitado pois o twitter não permite o spam de pesquisas (obviamente), então não existe a possibilidade de um grande número de termos-chave de forma efetiva, outrossim é necessário uma pessoalidade que o bot não permite por ser um meio massivo de comunicação, logo a análise do destinatário como um indivíduo biopsicossocial é dificultada mas ,ainda assim, está presente.
 
 ## **Referências**
 	
